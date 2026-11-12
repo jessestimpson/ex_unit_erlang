@@ -1,0 +1,2 @@
+ExUnit.start()
+ExUnitErlang.start()
